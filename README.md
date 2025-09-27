@@ -1,7 +1,3 @@
-好的，我帮你写一个针对 **GitHub repo README** 的文案，既能自然推荐你的网站，又能覆盖核心关键词，利于 **白帽SEO** 外链建设。以下是一个完整的 `README.md` 示例：
-
----
-
 # Cat TV: Fun for your cat, made by you
 
 [👉 Visit Cat TV](https://cat-tv.net)
