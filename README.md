@@ -14,7 +14,6 @@ It’s not **YouTube cat tv**; it’s your own studio—perfect for owners who w
 
 * 🎨 **Canvas tool** – design your own cat TV scenes
 * 🐦 **Add motion & sprites** – birds, toys, or anything fun for your cat
-* 📼 **Export videos** – create custom **cat videos for cats** to watch
 * 🐾 **Interactive fun** – more than just watching, it’s playful engagement
 
 ## Why Cat TV?
