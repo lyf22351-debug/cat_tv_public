@@ -24,11 +24,6 @@ Most cat TV videos online are pre-made and generic. With [Cat TV](https://cat-tv
 * Reduce stress for indoor cats with playful visual stimulation
 * Share your custom creations with other pet lovers
 
-## Meta Info for SEO
-
-* **Meta Title**: Make your own Cat TV for cats | Cat TV
-* **Meta Description**: Build cat TV for cats with our canvas tool. Design tv for cats scenes, export a custom video for cats, and craft cat videos for cats to watch.
-
 ## Recommended Websites
 
 Here are some other fun projects and tools you might enjoy:
