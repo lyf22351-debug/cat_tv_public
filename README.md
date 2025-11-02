@@ -31,3 +31,6 @@ Here are some other fun projects and tools you might enjoy:
 * [Visit When Bored](https://visit-when-bored.com) – Find funny and weird websites when you’re bored
 * [VikTools](https://viktools.site) – Free online tools for developers and creators
 * [BpsToMbps](https://bpstombps.com) – Free online bps to Mbps converter. Convert between data rate units (bps, Mbps, KB/s, GB/s) with real-time calculation and decimal accuracy.
+
+* [digger.tools](https://digger.tools/lookup/cat-tv.net)
+* [digger.tools](https://digger.tools/lookup/bpstombps.com)
