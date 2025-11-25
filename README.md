@@ -34,3 +34,5 @@ Here are some other fun projects and tools you might enjoy:
 
 * [digger.tools](https://digger.tools/lookup/cat-tv.net)
 * [digger.tools](https://digger.tools/lookup/bpstombps.com)
+* [popstar](https://en.virtualpopstar.com/social/forum?category=2&topic=336113&p=2#post-9709565)
+* [digger.tools](https://digger.tools/lookup/kaomojihub.com)
