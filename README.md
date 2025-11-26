@@ -37,3 +37,5 @@ Here are some other fun projects and tools you might enjoy:
 * [popstar](https://en.virtualpopstar.com/social/forum?category=2&topic=336113&p=2#post-9709565)
 * [digger.tools](https://digger.tools/lookup/kaomojihub.com)
 * [kaomoji](https://kaomojihub.net)
+* [kaomojihub isdownorblocked](https://isdownorblocked.com/check/kaomojihub.net)
+* [mbps isdownorblocked](https://isdownorblocked.com/check/bpstombps.com)
