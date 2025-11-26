@@ -39,3 +39,5 @@ Here are some other fun projects and tools you might enjoy:
 * [kaomoji](https://kaomojihub.net)
 * [kaomojihub isdownorblocked](https://isdownorblocked.com/check/kaomojihub.net)
 * [mbps isdownorblocked](https://isdownorblocked.com/check/bpstombps.com)
+* [mbps w3.ataiva](https://w3.ataiva.com/bpstombps.com)
+* [kaomojihub w3.ataiva](https://w3.ataiva.com/kaomojihub.net)
