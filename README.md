@@ -42,3 +42,4 @@ Here are some other fun projects and tools you might enjoy:
 * [mbps w3.ataiva](https://w3.ataiva.com/bpstombps.com)
 * [kaomojihub w3.ataiva](https://w3.ataiva.com/kaomojihub.net)
 * [egolinks](https://egolinks.online/@kaomojihub)
+* [linkstack](https://linkstack.lgbt/@lyfdev)
