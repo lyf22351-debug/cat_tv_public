@@ -44,3 +44,4 @@ Here are some other fun projects and tools you might enjoy:
 * [egolinks](https://egolinks.online/@kaomojihub)
 * [linkstack](https://linkstack.lgbt/@lyfdev)
 * [lyf jimdosite](https://lyf22351.jimdosite.com/)
+* [profile hatena](https://profile.hatena.ne.jp/lyf22351/)
