@@ -47,3 +47,4 @@ Here are some other fun projects and tools you might enjoy:
 * [profile hatena](https://profile.hatena.ne.jp/lyf22351/)
 * [hatena kaomojihub](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fkaomojihub.net)
 * [hatena bpstombps.com](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fbpstombps.com%2F)
+* [lyfdev.carrd](lyfdev.carrd.co)
