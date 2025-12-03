@@ -49,3 +49,4 @@ Here are some other fun projects and tools you might enjoy:
 * [hatena bpstombps.com](https://b.hatena.ne.jp/entry?url=https%3A%2F%2Fbpstombps.com%2F)
 * [lyfdev.carrd](lyfdev.carrd.co)
 * [tumblr lyf22351](https://www.tumblr.com/lyf22351)
+* [sitelike kaomojihub](https://www.sitelike.org/redir.aspx?url=https://kaomojihub.net)
