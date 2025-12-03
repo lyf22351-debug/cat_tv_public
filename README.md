@@ -50,3 +50,4 @@ Here are some other fun projects and tools you might enjoy:
 * [lyfdev.carrd](lyfdev.carrd.co)
 * [tumblr lyf22351](https://www.tumblr.com/lyf22351)
 * [sitelike kaomojihub](https://www.sitelike.org/redir.aspx?url=https://kaomojihub.net)
+* [linktr.ee lyfDev](https://linktr.ee/lyfDev)
