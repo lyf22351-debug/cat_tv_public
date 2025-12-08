@@ -52,3 +52,5 @@ Here are some other fun projects and tools you might enjoy:
 * [lyf fstoppers.com](https://fstoppers.com/profile/469554)
 * [sitelike kaomojihub](https://www.sitelike.org/redir.aspx?url=https://kaomojihub.net)
 * [linktr.ee lyfDev](https://linktr.ee/lyfDev)
+* [lyfdev google blog](https://lyfdev.blogspot.com/2025/12/what-is-kaomojihub-kaomojihub-helps-you.html)
+* [lyfdev](https://lyfdev.blogspot.com/)
