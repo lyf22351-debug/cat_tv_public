@@ -58,3 +58,4 @@ Here are some other fun projects and tools you might enjoy:
 * [lyf22351 myspace](https://myspace.com/lyf22351)
 * [scam-detector](https://www.scam-detector.com/validator/kaomojihub-net-review/)
 * [pastebin](https://pastebin.com/u/lyf22351)
+* [instapaper](https://www.instapaper.com/p/17234798)
