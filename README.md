@@ -55,3 +55,4 @@ Here are some other fun projects and tools you might enjoy:
 * [lyfdev google blog](https://lyfdev.blogspot.com/2025/12/what-is-kaomojihub-kaomojihub-helps-you.html)
 * [lyfdev](https://lyfdev.blogspot.com/)
 * [lyf pintest](https://au.pinterest.com/lyf22351/)
+* [lyf22351 myspace](https://myspace.com/lyf22351)
